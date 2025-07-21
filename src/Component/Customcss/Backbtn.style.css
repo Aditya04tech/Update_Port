@@ -1,0 +1,50 @@
+/* Center Back Button Styles */
+.center-back-btn {
+  position: fixed;
+  top: 95%;
+  left: 55%;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  padding: 12px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  z-index: 1000;
+  transform: translate(-50%, -50%);
+}
+
+.center-back-btn:hover {
+  background-color: #0056b3;
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .center-back-btn {
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .center-back-btn {
+    top: 95%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    padding: 8px;
+  }
+}
+
+/* Link without underline */
+.no-underline {
+  text-decoration: none;
+  color: inherit;
+}
+
+.no-underline:hover {
+  text-decoration: none;
+}
