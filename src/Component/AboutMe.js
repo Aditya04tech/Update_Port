@@ -28,7 +28,7 @@ export default function AboutMe() {
           <div className="col">
             <img src="/images/Project-Thumbnail/Logo.png" alt="seg1" class="logoimg"/>
             {/* <h1 className="name font-weight-bold mb-1">Aditya.R.Sukhdeve</h1> */}
-            <div className="tagline mb-3">System Engineer & MERN Stack Developer </div>
+            <div className="tagline mb-3">Executive-IT Support & Admin & MERN Stack Developer </div>
             <div className="bio mb-4">Dynamic and dedicated System Engineer with 2+ years of experience in hardware troubleshooting,
 network configuration, and cloud systems (AWS). Skilled in managing desktops, servers, and resolving
 critical IT issues with minimal downtime. Strong knowledge of Windows/Linux OS,Active Directory
