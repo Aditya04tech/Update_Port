@@ -1,0 +1,56 @@
+.footer {
+  background-color: #0d1117; /* dark background */
+  color: #ffffff;
+  padding: 20px 0;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.copyright {
+  font-size: 14px;
+  color: #c9d1d9; /* softer white */
+  letter-spacing: 0.5px;
+}
+
+/* ---------- Media Queries ---------- */
+
+/* Large Screens - PC (1200px and above) */
+@media screen and (min-width: 1200px) {
+  .copyright {
+    font-size: 16px;
+  }
+}
+
+/* Laptops (992px - 1199px) */
+@media screen and (max-width: 1199px) and (min-width: 992px) {
+  .copyright {
+    font-size: 15px;
+  }
+}
+
+/* Tablets (768px - 991px) */
+@media screen and (max-width: 991px) and (min-width: 768px) {
+  .footer {
+    padding: 18px 0;
+  }
+  .copyright {
+    font-size: 14px;
+  }
+}
+
+/* Mobile (up to 767px) */
+@media screen and (max-width: 767px) {
+  .footer {
+    padding: 15px 10px;
+  }
+  .copyright {
+    font-size: 12px;
+    line-height: 1.4;
+  }
+}
