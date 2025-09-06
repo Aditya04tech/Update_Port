@@ -53,7 +53,7 @@ export default function Header() {
             <div className="profile-section pt-3 pt-lg-0">
               <img className="profile-image mb-3 rounded-circle mx-auto" src={`${process.env.PUBLIC_URL}/images/My Image.png`} alt="Description" />			
               <div className="bio mb-3">
-                Hi, my name is Aditya.R.Sukhdeve and I'm a System Engineer. Welcome to my personal website!
+                Hi, my name is Aditya.R.Sukhdeve and I'm a Executive-IT Support & Admin. Welcome to my personal website!
               </div>
               <ul className="social-list list-inline py-2 mx-auto">
                 <li className="list-inline-item"><a href="https://www.instagram.com/jc_aditya.r.sukhdeve/"><i className="fa-brands fa-instagram fa-fw" /></a></li>
