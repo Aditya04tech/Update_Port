@@ -48,7 +48,7 @@ LAN lab setups, and IT asset management.
     <section className="overview-section p-3 p-lg-5">
       <div className="container">
       <h2 className="section-title font-weight-bold mb-3">What I do</h2>
-        <div className="section-intro mb-5">System Engineer with 2+ years of experience in hardware troubleshooting, network configuration, and AWS cloud systems. Skilled in Windows/Linux, Active Directory, LAN/WAN setups, and IT asset support. Also proficient in MERN stack development, delivering efficient and scalable software solutions.</div>
+        <div className="section-intro mb-5">System Engineer & Executive-IT Support & Admin with 2+ years of experience in hardware troubleshooting, network configuration, and AWS cloud systems. Skilled in Windows/Linux, Active Directory, LAN/WAN setups, and IT asset support. Also proficient in MERN stack development, delivering efficient and scalable software solutions.</div>
         <div className="row">
         <h2 className="section-title font-weight-bold mb-3">My Skills</h2>
          <div className="item col-6 col-lg-3">
@@ -142,7 +142,7 @@ LAN lab setups, and IT asset management.
    
 
    {/* Home Page Portfolio */}
-   <OnePort/>
+   {/* <OnePort/> */}
    {/* Home Page Portfolio  */}
 
 
