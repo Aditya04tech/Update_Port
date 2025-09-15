@@ -158,7 +158,8 @@ LAN lab setups, and IT asset management.</p>
              <div className="item">
                 <div className="item-heading row align-items-center mb-2">
                   <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">IT Infrastructure Setup & Administration </h4>
-                  <div className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end"> Windows Server 2022, Ubuntu, Samba, NAS, Firewall, Network Switches, Registries & Services </div>
+                  <h6 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Windows Server 2022, Ubuntu, Samba, NAS, Firewall, Network Switches, Registries & Services</h6>
+                 
                 </div>
                 <div className="item-content">
                   <p>Designed and implemented a secure and scalable IT infrastructure for a 20-PC lab. Configured Windows Server 2022 domain and integrated Ubuntu-based Samba backup server for data redundancy. Connected NAS storage with the server and provided user-level FTP access for efficient file management. Managed dual leased-line connections integrated with a firewall and distributed via switches for seamless network connectivity. Ensured optimized performance, reduced downtime, and enhanced security across the network environment.</p>

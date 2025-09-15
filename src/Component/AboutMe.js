@@ -1,10 +1,10 @@
-import React from 'react'
+
 import { Link } from 'react-router-dom'
 import Cs1 from './Custom/Cs1'
 // import Custom2 from './Custom2/Custom2'
 import OnePort from './OnePort'
 import LatestBlog from './LatestBlog'
-import Footerone from './Footerone'
+
 export default function AboutMe() {
 
 
