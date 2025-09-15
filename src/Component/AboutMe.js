@@ -170,9 +170,6 @@ LAN lab setups, and IT asset management.
   
   
 </div>
-
-
-
 {/* <Footerone/> */}
     </>
   )
