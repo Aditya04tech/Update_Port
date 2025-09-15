@@ -26,7 +26,7 @@ function Resume() {
   Aditya<span className="name-break">.</span>R<span className="name-break">.</span>Sukhdeve
 </h4>
 
-            <div className="resume-tagline mb-3 mb-md-0">System Engineer</div>
+            <div className="resume-tagline mb-3 mb-md-0">Executive - IT Support & Admin</div>
           </div>{/*//resume-title*/}
           <div className="resume-contact col-12 col-md-6 col-lg-4 col-xl-3">
             <ul className="list-unstyled mb-0">
@@ -58,13 +58,33 @@ LAN lab setups, and IT asset management.</p>
           <div className="resume-main col-12 col-lg-8 col-xl-9   pe-0   pe-lg-5">
             <section className="work-section py-3">
               <h3 className="text-uppercase resume-section-heading mb-4">Work Experiences</h3>
+      {/* Axykno Start */}
+         <div className="item mb-3">
+                <div className="item-heading row align-items-center mb-2">
+                  <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Exective-IT support & Admin  </h4>
+                  <div className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end">Axykno Capital Services Pvt.Ltd<br/> 2025 - Present</div>
+                </div>
+                <div className="item-content">
+                  <p>Working as an Executive - IT Support & Admin at Axykno Capital Services Pvt. Ltd. (2025 - Present), I am responsible for maintaining servers, assisting in lab operations, and providing quick troubleshooting solutions. I handle overall IT infrastructure, including hardware and networking, ensuring smooth performance and minimal downtime. By implementing faster solutions and structured support, I have simplified nearly 40% of IT tasks since joining. My focus is on delivering reliable technical assistance, optimizing systems, and maintaining high service standards that support business operations efficiently. This role has strengthened my problem-solving and system administration expertise. </p>
+                  <ul className="resume-list">
+                    <li >Server maintenance and IT infrastructure management </li>
+                    <li>Troubleshooting hardware, software, and networking issues </li>
+                    <li>Providing fast and effective IT support solutions </li>
+                   <li>Assisting lab operations and ensuring smooth workflow </li>
+                  </ul>
+                </div>
+              </div>{/*//item*/}
+      {/* Axykno Stor */}
+
+
+
               <div className="item mb-3">
                 <div className="item-heading row align-items-center mb-2">
                   <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">System Engineer & MERN Stack Developer </h4>
-                  <div className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end">PSK Technologies Pvt.Ltd<br/> 2025 - Present</div>
+                  <div className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end">PSK Technologies Pvt.Ltd<br/>  01-Feb-24 - 30-Jul-25 </div>
                 </div>
                 <div className="item-content">
-                  <p>As a System Engineer at PSK Technologies Pvt. Ltd., I specialize in managing and troubleshooting hardware, configuring networks, and ensuring seamless IT infrastructure performance. Skilled in installing, maintaining, and optimizing desktops, servers, and LAN/WAN setups, I have successfully reduced downtime and improved system reliability. Proficient in Windows/Linux administration, Active Directory, and IT asset management, I focus on delivering secure and efficient solutions that support business operations. Additionally, I develop modern and responsive web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js), combining system engineering expertise with software development to create scalable and user-focused solutions.</p>
+                  <p>System Engineer at PSK Technologies Pvt. Ltd. with expertise in hardware management, network configuration, and IT infrastructure optimization. Skilled in Windows/Linux administration, Active Directory, and IT asset management to ensure secure and reliable operations. Additionally, I build modern web applications using the MERN stack, combining IT engineering with software development to deliver scalable, user-focused solutions.</p>
                   <ul className="resume-list">
                     <li >Installed, configured, and maintained desktops, servers, and LAN/WAN setups, improving IT efficiency.</li>
                     <li>Managed Windows/Linux administration, Active Directory, and IT asset management for seamless operations.</li>
@@ -135,35 +155,21 @@ LAN lab setups, and IT asset management.</p>
 
             <section className="project-section py-3">
               <h3 className="text-uppercase resume-section-heading mb-4">Projects</h3>
-              <div className="item mb-3">
+             <div className="item">
                 <div className="item-heading row align-items-center mb-2">
-                  <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Shinde's Education Gallery</h4>
-                  <div className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end">Open Source</div>
+                  <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">IT Infrastructure Setup & Administration </h4>
+                  <div className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end"> Windows Server 2022, Ubuntu, Samba, NAS, Firewall, Network Switches, Registries & Services </div>
                 </div>
                 <div className="item-content">
-                  <p>Premier coaching for school, JEE, NEET, CET, and skill development with expert faculty,
-                  personalized attention, and a result-oriented approach for student success.</p>
+                  <p>Designed and implemented a secure and scalable IT infrastructure for a 20-PC lab. Configured Windows Server 2022 domain and integrated Ubuntu-based Samba backup server for data redundancy. Connected NAS storage with the server and provided user-level FTP access for efficient file management. Managed dual leased-line connections integrated with a firewall and distributed via switches for seamless network connectivity. Ensured optimized performance, reduced downtime, and enhanced security across the network environment.</p>
                 </div>
+                  <ul className="resume-list">
+                    <li > Reduced downtime by 30% with automated backups </li>
+                    <li> Improved file accessibility and security through NAS & FTP integration</li>
+                  
+                  </ul>
               </div>{/*//item*/}
-              <div className="item">
-                <div className="item-heading row align-items-center mb-2">
-                  <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">COSDVL Pharma</h4>
-                  <div className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end">Open Source</div>
-                </div>
-                <div className="item-content">
-                  <p> COSDVL Pharma is all about creating top-notch face creams, washes, and lotions that are crafted to nourish, 
-                  protect, and bring out your skin's natural radiance.</p>
-                </div>
-              </div>{/*//item*/}
-              <div className="item">
-                <div className="item-heading row align-items-center mb-2">
-                  <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">Ashish Mobile Shop </h4>
-                  <div className="item-meta col-12 col-md-6 col-lg-4 text-muted text-start text-md-end">Open Source</div>
-                </div>
-                <div className="item-content">
-                  <p>Hello and welcome to Ashish Mobile Shop , where we have been established since 24 Feb 2021 . Our team comprises of technology freaks and customer care professionals who aim at connecting you with the world using advanced technology and exceptional service.</p>
-                </div>
-              </div>{/*//item*/}
+             
               <div className="item">
                 <div className="item-heading row align-items-center mb-2">
                   <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">LMS-Learning Management Syatem </h4>
