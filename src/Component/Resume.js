@@ -157,8 +157,8 @@ LAN lab setups, and IT asset management.</p>
               <h3 className="text-uppercase resume-section-heading mb-4">Projects</h3>
              <div className="item">
                 <div className="item-heading row align-items-center mb-2">
-                  <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0">IT Infrastructure Setup & Administration </h4>
-                 <p> Windows Server 2022, Ubuntu, Samba, NAS, Firewall, Network Switches, Registries & Services </p>
+                  <h4 className="item-title col-12 col-md-6 col-lg-8 mb-2 mb-md-0 ">IT Infrastructure Setup & Administration </h4>
+                 <p className="mt-3"> Windows Server 2022, Ubuntu, Samba, NAS, Firewall, Network Switches, Registries & Services </p>
                  
                 </div>
                 <div className="item-content">
