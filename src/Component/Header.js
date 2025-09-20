@@ -1,7 +1,15 @@
 import React, { useEffect, useRef } from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
+import Head from './Head';
+
 
 export default function Header() {
+
+
+
+
+
   const location = useLocation();
   const navRef = useRef();
 
@@ -40,6 +48,14 @@ export default function Header() {
   }, []);
 
   return (
+    <>
+
+    <Head/>
+     <div className="hero-section">
+        <h1>Aditya Ravindra Sukhdeve</h1>
+        <p>Executive-IT Support & Admin</p>
+      </div>
+
     <header className="header text-center">
       <div className="force-overflow">
         <h1 className="blog-name pt-lg-4 mb-0">
@@ -90,5 +106,7 @@ export default function Header() {
         </nav>
       </div>
     </header>
+    </>
   );
+
 }
