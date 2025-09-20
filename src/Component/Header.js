@@ -56,7 +56,7 @@ export default function Header() {
     <header className="header text-center">
       <div className="force-overflow">
         <h1 className="blog-name pt-lg-4 mb-0">
-          <h1 className="no-text-decoration" href="/">Aditya.R.Sukhdeve</h1>
+          <a className="no-text-decoration" href="/">Aditya.R.Sukhdeve</a>
         </h1>
         <nav className="navbar navbar-expand-lg navbar-dark" ref={navRef}>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
